@@ -1,0 +1,11 @@
+flask
+flask-cors
+scikit-learn==1.6.1
+xgboost
+pandas
+numpy
+scipy
+joblib
+threadpoolctl
+setuptools<81
+streamlit

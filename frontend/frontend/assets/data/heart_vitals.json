@@ -1,0 +1,222 @@
+[
+    {
+        "ChestPainType": 0,
+        "RestingBP": 107,
+        "Cholesterol": 388,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 141,
+        "ExerciseAngina": 1,
+        "Oldpeak": 4.3,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 130,
+        "Cholesterol": 314,
+        "FastingBS": 0,
+        "RestingECG": 2,
+        "MaxHR": 186,
+        "ExerciseAngina": 1,
+        "Oldpeak": 1.1,
+        "ST_Slope": 1
+    },
+    {
+        "ChestPainType": 0,
+        "RestingBP": 147,
+        "Cholesterol": 249,
+        "FastingBS": 0,
+        "RestingECG": 1,
+        "MaxHR": 126,
+        "ExerciseAngina": 0,
+        "Oldpeak": 0.5,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 147,
+        "Cholesterol": 261,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 125,
+        "ExerciseAngina": 0,
+        "Oldpeak": 1.7,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 107,
+        "Cholesterol": 277,
+        "FastingBS": 0,
+        "RestingECG": 0,
+        "MaxHR": 176,
+        "ExerciseAngina": 1,
+        "Oldpeak": 5.1,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 0,
+        "RestingBP": 193,
+        "Cholesterol": 144,
+        "FastingBS": 0,
+        "RestingECG": 1,
+        "MaxHR": 143,
+        "ExerciseAngina": 0,
+        "Oldpeak": 2.2,
+        "ST_Slope": 1
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 178,
+        "Cholesterol": 233,
+        "FastingBS": 1,
+        "RestingECG": 0,
+        "MaxHR": 104,
+        "ExerciseAngina": 0,
+        "Oldpeak": 1.0,
+        "ST_Slope": 1
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 112,
+        "Cholesterol": 359,
+        "FastingBS": 0,
+        "RestingECG": 1,
+        "MaxHR": 176,
+        "ExerciseAngina": 1,
+        "Oldpeak": 2.4,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 3,
+        "RestingBP": 198,
+        "Cholesterol": 141,
+        "FastingBS": 1,
+        "RestingECG": 0,
+        "MaxHR": 114,
+        "ExerciseAngina": 1,
+        "Oldpeak": 2.4,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 1,
+        "RestingBP": 166,
+        "Cholesterol": 252,
+        "FastingBS": 0,
+        "RestingECG": 1,
+        "MaxHR": 196,
+        "ExerciseAngina": 0,
+        "Oldpeak": 5.7,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 187,
+        "Cholesterol": 229,
+        "FastingBS": 0,
+        "RestingECG": 1,
+        "MaxHR": 143,
+        "ExerciseAngina": 0,
+        "Oldpeak": 4.6,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 148,
+        "Cholesterol": 200,
+        "FastingBS": 1,
+        "RestingECG": 0,
+        "MaxHR": 93,
+        "ExerciseAngina": 0,
+        "Oldpeak": 2.4,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 150,
+        "Cholesterol": 168,
+        "FastingBS": 1,
+        "RestingECG": 1,
+        "MaxHR": 122,
+        "ExerciseAngina": 1,
+        "Oldpeak": 0.4,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 2,
+        "RestingBP": 198,
+        "Cholesterol": 310,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 168,
+        "ExerciseAngina": 0,
+        "Oldpeak": 2.9,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 1,
+        "RestingBP": 170,
+        "Cholesterol": 122,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 137,
+        "ExerciseAngina": 1,
+        "Oldpeak": 4.8,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 1,
+        "RestingBP": 90,
+        "Cholesterol": 132,
+        "FastingBS": 0,
+        "RestingECG": 2,
+        "MaxHR": 115,
+        "ExerciseAngina": 0,
+        "Oldpeak": 2.2,
+        "ST_Slope": 1
+    },
+    {
+        "ChestPainType": 3,
+        "RestingBP": 162,
+        "Cholesterol": 308,
+        "FastingBS": 1,
+        "RestingECG": 0,
+        "MaxHR": 171,
+        "ExerciseAngina": 0,
+        "Oldpeak": 5.8,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 3,
+        "RestingBP": 110,
+        "Cholesterol": 202,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 94,
+        "ExerciseAngina": 1,
+        "Oldpeak": 3.8,
+        "ST_Slope": 0
+    },
+    {
+        "ChestPainType": 3,
+        "RestingBP": 114,
+        "Cholesterol": 354,
+        "FastingBS": 1,
+        "RestingECG": 1,
+        "MaxHR": 142,
+        "ExerciseAngina": 1,
+        "Oldpeak": 1.5,
+        "ST_Slope": 2
+    },
+    {
+        "ChestPainType": 1,
+        "RestingBP": 192,
+        "Cholesterol": 173,
+        "FastingBS": 0,
+        "RestingECG": 2,
+        "MaxHR": 95,
+        "ExerciseAngina": 0,
+        "Oldpeak": 4.2,
+        "ST_Slope": 1
+    }
+]
