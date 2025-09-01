@@ -1,6 +1,6 @@
 // src/services/predict.ts
 
-const API_BASE = "http://192.168.1.6:5000"; 
+const API_BASE = "http://192.168.1.11:5000"; 
 
 // -------------------- DIABETES --------------------
 export async function predictDiabetes(payload: any) {

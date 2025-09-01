@@ -14,6 +14,7 @@ class UserDataBase:
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 Name TEXT,
                 Email TEXT,
+                Password TEXT,
                 Phone TEXT,
                 Address TEXT,
                 DOB TEXT,

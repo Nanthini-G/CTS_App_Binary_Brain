@@ -15,7 +15,7 @@ from flask_cors import CORS
 import bcrypt
 from care_recommend.care_utils import heart_features_string_converter
 
-app = Flask(__name__)
+app = Flask(__name__) 
 CORS(app)
 
 
@@ -66,8 +66,10 @@ def predict_heart():
         slope = int(data.get("ST_Slope"))
         features = np.array([[age, sex, cp, trestbps, chol, fbs, restecg,
                       thalach, exang, oldpeak, slope]])
+        print(features)
         heart_prob = heart_model.predict_proba(features)[0][1]  
         heart_risk, heart_reco = classify_risk(heart_prob, "heart")
+        print(heart_risk)
         predictionDatabase.save_prediction(current_user_id,heart_prob, heart_risk, None, None)
 
         return jsonify({
@@ -230,6 +232,7 @@ def get_personalized_plan():
 
 @app.route("/recommendation", methods=["GET"])
 def get_recommendation_route():
+
     result = generate_care_recommendation()
     return jsonify({"recommendation": result})
 

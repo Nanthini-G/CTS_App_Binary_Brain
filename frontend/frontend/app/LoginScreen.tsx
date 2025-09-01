@@ -36,7 +36,7 @@ export default function LoginScreen() {
     if (Object.keys(newErrors).length === 0){
         try{
           const response = await fetch(
-            "http://http://192.168.1.6:5000/user/login",
+            "http://10.0.16.242:5000/user/login",
             {
               method: "POST",
             headers: { "Content-Type": "application/json" },

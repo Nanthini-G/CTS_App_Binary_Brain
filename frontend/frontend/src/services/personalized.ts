@@ -1,6 +1,6 @@
 // src/services/personalized.ts
-const API_BASE = "http://192.168.1.6:5000"; // 🔹 change to your system IP
-
+const API_BASE = "http://192.168.1.11:5000"; // 🔹 change to your system IP
+// const API_BASE = "http://192.168.1.6:5000"; 
 export async function getPersonalizedPlan() {
   const response = await fetch(`${API_BASE}/personalized`, {
     method: "GET",
